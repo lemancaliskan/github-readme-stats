@@ -376,4 +376,12 @@ export const themes = {
   },
 };
 
+ },
+  dark_lilac: {
+    title_color: "A777EA",
+    icon_color: "#B0A7B6",
+    text_color: "C3D1D9",
+    bg_color: "0D1117",
+  },
+    
 export default themes;
